@@ -1,0 +1,6 @@
+[submodule "mern-auth-frontend"]
+	path = mern-auth-frontend
+	url = https://github.com/zinotrust/mern-auth-frontend.git
+[submodule "mern-auth-backend"]
+	path = mern-auth-backend
+	url = https://github.com/zinotrust/mern-auth-backend.git
